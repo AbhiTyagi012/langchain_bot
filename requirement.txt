@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+PyMuPDF
+faiss-cpu
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+# If you ever uncomment OpenAI or others, you can add these:
+# langchain-openai
+# langchain-anthropic
+# langchain-groq
+# langchain-mistralai
